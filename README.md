@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **books**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1itlPxwDPROCpeG6PuYK9-gL0dKUuLuHP/view](https://drive.google.com/file/d/1itlPxwDPROCpeG6PuYK9-gL0dKUuLuHP/view)
+- 📄 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
