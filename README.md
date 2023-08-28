@@ -7,8 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha333-web" alt="isha333-web" /></a> </p>
 
-<h3>Fourth year undergraduate student pursuing computer science engineering</h3>
-<h3>From SARALA BIRLA UNIVERSITY</h3>
+<h4>Fourth year undergraduate student pursuing computer science engineering</h4>
+
+<h4>From SARALA BIRLA UNIVERSITY</h4>
 
 - 🔭 I’m currently working on **PYTHON**
 
