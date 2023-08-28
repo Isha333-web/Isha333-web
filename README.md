@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha333-web" alt="isha333-web" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Web Development Technologies**
 
 - 🌱 I’m currently learning **Frontend technologies**
 
