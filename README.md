@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isha333-web" alt="isha333-web" /></a> </p>
 
+-->Fourth year undergraduate student pursuing computer science engineering
+-->From SARALA BIRLA UNIVERSITY
+
 - 🔭 I’m currently working on **PYTHON**
 
 - 🌱 I’m currently learning **Frontend technologies**
