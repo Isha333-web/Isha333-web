@@ -17,7 +17,6 @@
 
 - 😄 Pronouns: She/her.
 
-- 💬 Ask me about **books**
 
 
 
