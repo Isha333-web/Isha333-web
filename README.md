@@ -14,8 +14,7 @@
 - 🔭 I’m currently working on **PYTHON**
 
 - 🌱 I’m currently learning **Frontend technologies**
--  I love writing codes and learn anything about it.
-- 🎧 I love listening to songs.
+
 - 😄 Pronouns: She/her.
 
 - 💬 Ask me about **books**
