@@ -29,6 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isha333-web&show_icons=true&locale=en&layout=compact" alt="isha333-web" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isha333-web&show_icons=true&locale=en" alt="isha333-web" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isha333-web&" alt="isha333-web" /></p>
