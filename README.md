@@ -32,3 +32,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isha333-web&" alt="isha333-web" /></p>
+
+[![An image of @isha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isha)](https://holopin.io/@isha)
